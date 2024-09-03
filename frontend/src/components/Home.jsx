@@ -32,7 +32,7 @@ function Home() {
         isVisible ? "transform translate-y-0 opacity-100" : "transform -translate-y-10 opacity-0"
       }`}>
         <h2 className="font-heading text-3xl leading-[1.1] sm:text-3xl md:text-6xl">Innovxus where idea's ignite innovations.</h2>
-        <p className="max-w-[90%] leading-normal text-gray-300 text-muted-foreground sm:text-lg sm:leading-7">
+        <p className="max-w-[100%] leading-normal text-gray-300 text-muted-foreground sm:text-lg sm:leading-7">
         A college club igniting innovation, where creative minds collaborate to turn ideas into reality</p>
         </div>
     </div>
