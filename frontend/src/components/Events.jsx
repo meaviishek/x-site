@@ -35,7 +35,7 @@ function Events() {
     />
     </div>
     </div>
-    <div className="p-4">
+    <div className="p-2">
       <h2 className="text-xl font-bold mb-2 ">COD-A-FESTx 2.0 2024</h2>
       <p className=" mb-4 text-justify">
       Join Cod-A-FestX 2.0 on September 7th, 2024! Form teams of 4-5 members, with at least one girl mandatory. Compete for prizes up to ₹10,000 and earn participation certificates. The 18-hour hackathon runs from 3 PM to 9 AM. Registration is free—don’t miss this chance to showcase your skills. Register now!</p>
@@ -58,7 +58,7 @@ function Events() {
   
 
   <div
-    className="max-w-lg w-full bg-gray-100/10 text-gray-300 rounded-xl shadow-2xl overflow-hidden transform transition duration-500 hover:scale-105">
+    className="max-w-lg w-full bg-gray-100/10 text-gray-300 rounded-xl shadow-2xl overflow-hidden transform transition duration-500 md:hover:scale-105">
     <div className="relative">
       <img className="w-full h-72 object-cover" loading='lazy' src={Anuv} alt="Nature scene"/>
       <div className="absolute top-0 right-0 bg-blue-600 text-white px-2 py-1 m-2 rounded-md text-sm font-semibold">
@@ -73,7 +73,7 @@ function Events() {
     />
     </div>
     </div>
-    <div className="p-4">
+    <div className="p-2">
    
       <h2 className="text-xl font-bold mb-2 ">Spaced Out (Anuv Jain) Live Concert</h2>
       <p className=" text-justify mb-4">
@@ -135,13 +135,13 @@ function Events() {
 
 
 
-<div className="bg-[#1f21246f] p-4">
+<div className="bg-[#1f21246f] p-2">
 <h1 className='text-gray-300 text-3xl'>Past Events</h1>
 
 <section >
   
 
-<div className=" mx-auto p-5 sm:p-10 md:p-10">
+<div className=" mx-auto p-4 sm:p-10 md:p-10">
 
     
 
