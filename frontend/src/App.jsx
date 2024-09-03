@@ -15,10 +15,7 @@ function App() {
       <div className="shape"></div>
       <div className="shape"></div>
       <div className="shape"></div>
-      <div className="shape"></div>
-      <div className="shape"></div>
-      <div className="shape"></div>
-      <div className="shape"></div>
+     
   
   
      <Header />
