@@ -10,19 +10,19 @@ function App() {
 
   return (
     <>
-    {/* <div className="relative w-full overflow-hidden  items-center justify-center bg-black">
+    <div className="relative w-full overflow-hidden  items-center justify-center bg-black">
       <div className="shape"></div>
       <div className="shape"></div>
       <div className="shape"></div>
       <div className="shape"></div>
-      */}
+     
   
   
      <Header />
      <main>
       <Outlet />
      </main>
-     {/* </div> */}
+     </div>
      <Footer/>
     
     
