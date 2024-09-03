@@ -15,7 +15,7 @@
 
   height: 40px;
   bottom: -150px;
-  filter: blur(50px);
+  filter: blur(80px);
 	animation: animate 80s linear infinite;
 
  
@@ -32,7 +32,7 @@
 .shape:nth-child(2) {
   width: 300px;
   height: 200px;
-  background: linear-gradient(150deg, #86a8e7, #91eae4);
+  background: linear-gradient(150deg, #b70e08, #ead791);
   left: 80%;
 
 	bottom: -150px;
