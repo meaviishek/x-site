@@ -87,10 +87,10 @@ function Header() {
     <div className=" fixed md:hidden right-0 top-16 p-4 w-[50%] h-80  flex-col backdrop-filter 
     backdrop-blur-lg  bg-[rgba(5,5,5,0.84)]   ease-in-out duration-500 rounded-md">
     <div className=" flex gap-8 flex-col " >
-      <NavLink to="/" className={({isActive})=>`'text-xl' ${isActive? 'text-white ' : 'text-gray-300 hover:text-white'}`}>Home</NavLink>
-      <NavLink to="/events" className={({isActive})=>`'text-xl'${isActive? 'text-white  ' : 'text-gray-300 hover:text-white'}`}>Events</NavLink>
+      <NavLink to="/" onClick={toggleMenu} className={({isActive})=>`'text-xl ' ${isActive? 'text-white ' : 'text-gray-300 hover:text-white'}`}>Home</NavLink>
+      <NavLink to="/events" onClick={toggleMenu} className={({isActive})=>`'text-xl'${isActive? 'text-white  ' : 'text-gray-300 hover:text-white'}`}>Events</NavLink>
      
-      <NavLink to="/aboutus" className={({isActive})=>`'text-xl'${isActive? 'text-white ' : 'text-gray-300 hover:text-white'}`}>About Us</NavLink>
+      <NavLink to="/aboutus" onClick={toggleMenu} className={({isActive})=>`'text-xl'${isActive? 'text-white ' : 'text-gray-300 hover:text-white'}`}>About Us</NavLink>
      
     </div>
    </div>
