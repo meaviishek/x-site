@@ -26,7 +26,7 @@
   background: linear-gradient(130deg, #86a8e7, #91eae4);
   left: 60%;
 	bottom: -150px;
-	animation-delay: 1s;
+
   animation-duration: 15s;
 }
 .shape:nth-child(2) {
@@ -34,7 +34,7 @@
   height: 200px;
   background: linear-gradient(150deg, #86a8e7, #91eae4);
   left: 80%;
-	animation-delay: 2s;
+
 	bottom: -150px;
   animation-duration: 10s;
 }
@@ -44,7 +44,7 @@
   height: 200px;
   background: linear-gradient(130deg, #9d50bb, #6e48aa);
   left: 30%;
-	animation-delay: 4s;
+
 	bottom: -150px;
   animation-duration: 20s;
 }
@@ -54,7 +54,7 @@
   background: linear-gradient(135deg, #4259de, #484aaa);
   left: 1%;
 	bottom: -150px;
-	animation-delay: 3s;
+
   animation-duration: 15s;
 }
 
@@ -118,7 +118,7 @@
 	}
 
 	100% {
-		transform: translateY(-5000px) rotate(720deg);
+		transform: translateY(-4000px) rotate(720deg);
 		opacity: 0;
 		border-radius: 50%;
 	}
