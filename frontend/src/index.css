@@ -17,7 +17,7 @@
   /* bottom: -150px; */
   filter: blur(120px);
 	/* animation: animate 80s linear infinite; */
-
+  animation: zoomin 60% zoomout;
  
 }
 .shape:nth-child(1) {
@@ -57,6 +57,7 @@
   background: linear-gradient(135deg, #4259de, #484aaa);
   left: 1%;
 	top: 10%;
+	
 	/* bottom: -150px; */
 
  
