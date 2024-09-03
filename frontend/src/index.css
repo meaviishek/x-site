@@ -25,6 +25,7 @@
   height: 200px;
   background: linear-gradient(130deg, #86a8e7, #91eae4);
   left: 60%;
+	top: 40%;
 	/* bottom: -150px; */
 
   /* animation-duration: 15s; */
@@ -34,6 +35,7 @@
   height: 200px;
   background: linear-gradient(150deg, #b70e08, #ead791);
   left: 80%;
+	top: 20%;
 
 	/* bottom: -150px; */
  
@@ -44,6 +46,7 @@
   height: 200px;
   background: linear-gradient(130deg, #9d50bb, #6e48aa);
   left: 30%;
+	top: 60%;
 
 	/* bottom: -150px; */
 
@@ -53,6 +56,7 @@
   height: 250px;
   background: linear-gradient(135deg, #4259de, #484aaa);
   left: 1%;
+	top: 95%;
 	/* bottom: -150px; */
 
  
