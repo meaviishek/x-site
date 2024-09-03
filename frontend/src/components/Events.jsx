@@ -23,7 +23,7 @@ function Events() {
   <div
     className="max-w-lg w-full bg-gray-100/10 text-gray-300 rounded-xl shadow-2xl overflow-hidden transform transition duration-500 md:hover:scale-105">
     <div className="relative">
-      <img className="w-full h-48 object-cover" src={codefest} alt="Nature scene"/>
+      <img className="w-full h-48 object-cover" loading='lazy' src={codefest} alt="Nature scene"/>
       <div className="absolute top-0 right-0 bg-blue-600 text-white px-2 py-1 m-2 rounded-md text-sm font-semibold">
        Hackathon
       </div>
@@ -60,7 +60,7 @@ function Events() {
   <div
     className="max-w-lg w-full bg-gray-100/10 text-gray-300 rounded-xl shadow-2xl overflow-hidden transform transition duration-500 hover:scale-105">
     <div className="relative">
-      <img className="w-full h-72 object-cover" src={Anuv} alt="Nature scene"/>
+      <img className="w-full h-72 object-cover" loading='lazy' src={Anuv} alt="Nature scene"/>
       <div className="absolute top-0 right-0 bg-blue-600 text-white px-2 py-1 m-2 rounded-md text-sm font-semibold">
         Concert
       </div>
@@ -154,6 +154,7 @@ function Events() {
             <div className="relative "><a href="#">
                     <img className="w-full "
                         src={Amritsar}
+                        loading='lazy'
                         alt="Sunset in the mountains"/>
                     <div
                         className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
@@ -197,6 +198,7 @@ function Events() {
             <div className="relative "><a href="#">
                     <img className="w-full "
                         src={hack}
+                        loading='lazy'
                         alt="Sunset in the mountains"/>
                     <div
                         className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
@@ -241,6 +243,7 @@ On February 22, 2024, we conducted HackEthix, an insightful workshop on ethical 
             <div className="relative "><a href="#">
                     <img className="w-full "
                         src={hackathon}
+                        loading='lazy'
                         alt="Sunset in the mountains"/>
                     <div
                         className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
