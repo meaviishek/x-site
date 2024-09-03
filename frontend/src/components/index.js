@@ -14,9 +14,9 @@ import hackathon from "../assets/hackathon01.jpg"
 import cyberdrill from "../assets/cyberdrill.jpg"
 import Heads from "./Heads";
 import Aboutus from "./Aboutus";
-import codefest from "../assets/codefest.png"
+import codefest from "../assets/codefes.jpeg"
 import hack from "../assets/hack.jpg"
-import Anuv from "../assets/ANUV.png"
+import Anuv from "../assets/ANU.jpeg"
 export {
   Footer,
   Header,
