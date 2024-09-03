@@ -17,7 +17,7 @@
   /* bottom: -150px; */
   filter: blur(120px);
 	/* animation: animate 80s linear infinite; */
-  animation: zoomin 60% zoomout;
+  animation: zoomIn;
  
 }
 .shape:nth-child(1) {
