@@ -31,7 +31,7 @@ function Header() {
 
   return (
    
-    <nav className="fixed top-2 md:left-40 -translate-x-8xl w-full max-w-7xl bg-[rgba(67,67,71,0.53)] bg-opacity-10 backdrop-blur-xl text-white shadow-lg  shadow-[#110911] rounded-full z-10 transition-transform duration-500 ease-in-out font-poppins">
+    <nav className="fixed inset-x-0  md:top-4 lg:top-4 z-40 mx-auto w-full bg-white/20 py-1 shadow backdrop-blur-md md:rounded-3xl lg:max-w-screen-lg ">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="flex justify-between h-14 items-center">
         

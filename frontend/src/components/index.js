@@ -4,7 +4,7 @@ import Home from "./Home";
 import Events from "./Events";
 import purplebg from "../assets/prplebg.jpg"
 import Members from "./Members"
-import logowhite from "../assets/innovxuswhite.png";
+import logowhite from "../assets/logo-x.png";
 
 import Amritsar from "../assets/amritsar.jpg";
 import Coding from "../assets/coding.jpg";
